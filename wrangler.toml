@@ -1,0 +1,8 @@
+name = "jrebel"
+main = "src/index.js"
+type = "webpack"
+# account_id = "your_account_id"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2023-05-18"
